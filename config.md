@@ -3,11 +3,11 @@ Add here global page variables to use throughout your
 website.
 The website_* must be defined for the RSS to work
 -->
-@def website_title = "Franklin Template"
-@def website_descr = "Example website using Franklin"
-@def website_url   = "https://tlienart.github.io/FranklinTemplates.jl/"
+@def website_title = "C14008 Website"
+@def website_descr = "Class website for Introduction to Being a Code Ninja with Julia for Summer HSSP 2020"
+@def website_url   = "https://julia.party"
 
-@def author = "Septimia Zenobia"
+@def author = "Cameron Kleiman and Christian Stromberger"
 
 @def mintoclevel = 2
 
