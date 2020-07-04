@@ -9,9 +9,21 @@ In C14008, you will receive [Jupyter](https://jupyter.org/) notebooks every week
   **Need help with this guide?** Email [c14008-teachers@esp.mit.edu](mailto:c14008-teachers@esp.mit.edu) and we'll come help you out.
 @@
 
-There's a couple ways we will be enabling you to work with Julia. Note that if you have a Chromebook, iPad, or any device that doesn't run MacOS, Windows, or Linux, you will need to use the code server.
+There's a couple ways we will be enabling you to work with Julia.
 
 \toc
+
+### Deciding between local development and the code server
+You may want to [develop on your own machine](#installing_julia_on_your_computer) if you:
+- are running MacOS, Windows, or Linux
+- are comfortable installing development tools on your own machine
+- have a powerful enough computer to run Zoom and whatever program you choose to edit Julia with at the same time
+
+You may want to [use the code server](#using_the_course-provided_code_server) if you:
+- have an older or less powerful computer
+- are using a device without administrator permissions or a device you don't own
+- are using a Chromebook, iPad, or other device that doesn't run MacOS, Windows, or Linux
+- are less comfortable installing software on your computer
 
 ## Installing Julia on your computer
 
