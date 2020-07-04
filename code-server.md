@@ -7,6 +7,9 @@ If you don't yet have an account on the Code Server, please follow [the instruct
 ## Personal workspace
 Logging into the Code Server will immediately launch you into a personal JupyterLab instance for you to use. Your files will persist when you log in and out, and you also have limited terminal access. Use the icons provided in the Launch tab to create a Julia console or Julia notebook for you to work with.
 
+## Resetting your password
+If you ever need to change your password, visit [this link](https://code.julia.party/hub/change-password) after you've logged in. If you're locked out of the code server, just email [c14008-teachers@esp.mit.edu](mailto:c14008-teachers@esp.mit.edu), and we'll help you regain access to your account.
+
 ## Editing a Julia file on the Code Server
 To write Julia on the server, you're welcome to write code in notebooks, but you can also write Julia (.jl) files by creating a text file in the launcher and renaming it to `<filename>.jl`. JupyterLab will automatically recognize you are editing a Julia file and add appropriate syntax highlighting.
 
