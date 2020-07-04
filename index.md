@@ -7,6 +7,8 @@ Instructors:
 - [Cameron Kleiman](https://camk.co), rising sophomore at MIT ([ckleiman@mit.edu](mailto:ckleiman@mit.edu))
 - Christian Stromberger, rising sophomore at Caltech ([cjs@caltech.edu](mailto:cjs@caltech.edu))
 
+The best way to contact the instructors is to email [c14008-teachers@esp.mit.edu](mailto:c14008-teachers@esp.mit.edu).
+
 Course time: Saturdays 7/11 to 8/15 from 1:35pm EDT to 2:55pm EDT
 
 ## Announcements
