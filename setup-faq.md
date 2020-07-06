@@ -2,7 +2,7 @@
 
 # Setting up Julia FAQ
 
-This page contains some notes on the installation process to help explain some of the various tools you'll be using. See below for some frequently asked questions and notes.
+This page contains some notes to help answer your questions on the installation process. If your question isn't here, email us at [c14008-teachers@esp.mit.edu](mailto:c14008-teachers@mit.edu), and we'll add it to this list to help other students.
 
 \toc
 
