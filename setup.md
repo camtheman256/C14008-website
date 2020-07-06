@@ -6,7 +6,7 @@
 In C14008, you will receive [Jupyter](https://jupyter.org/) notebooks every week containing much of the course content for that week, along with some exercises and extracurricular activities that you're welcome to undertake to learn more about the Julia language.
 
 @@colbox-blue
-  **Need help with this guide?** Email [c14008-teachers@esp.mit.edu](mailto:c14008-teachers@esp.mit.edu) and we'll come help you out.
+  **Need help with this guide?** Visit [this FAQ](/setup-faq). If you still have questions, email [c14008-teachers@esp.mit.edu](mailto:c14008-teachers@esp.mit.edu) and we'll come help you out.
 @@
 
 There's a couple ways we will be enabling you to work with Julia.
