@@ -20,6 +20,6 @@ JuliaPro, annoyingly, doesn't add Julia to your PATH, which is a list of directo
 5. Add your Julia bin directory:[^1]
     - If you installed for the current user (which is the default), type in `%USERPROFILE%\AppData\Local\JuliaPro-1.4.2-1\Julia-1.4.2\bin`
       - If you're wondering, the `%USERPROFILE%` variable just points to your user directory.
-    - If you installed system-wide (by running JuliaPro with administrator permissions), type in `C:\JuliaPro-1.4.2-1\Julia-1.4.2\bin`
+    - If you installed system-wide (by running the JuliaPro installer with administrator permissions), type in `C:\JuliaPro-1.4.2-1\Julia-1.4.2\bin`
   
 [^1]: These instructions are assuming you've installed JuliaPro 1.4.2-1, which is the current version as of this writing. If you're running a different version of JuliaPro, adjust the version numbers in the file paths.
