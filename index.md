@@ -11,6 +11,11 @@ The best way to contact the instructors is to email [c14008-teachers@esp.mit.edu
 
 Course time: Saturdays 7/11 to 8/15 from 1:35pm EDT to 2:55pm EDT
 
+## Lectures
+
+1. The Basics: [Lesson1.ipynb](/assets/notebooks/Lesson1.ipynb)
+   - (The site will be updated after class with the results of the notebook used in class.)
+
 ## Announcements
 - See this helpful guide to [getting setup with Julia](/setup) for the class.
 - Visit this guide on [using the C14008 Code Server](/code-server).
