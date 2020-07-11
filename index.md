@@ -14,7 +14,7 @@ Course time: Saturdays 7/11 to 8/15 from 1:35pm EDT to 2:55pm EDT
 ## Lectures
 
 1. The Basics: [Lesson1.ipynb](/assets/notebooks/Lesson1.ipynb)
-   - (The site will be updated after class with the results of the notebook used in class.)
+   - Notebook file that was used in class: [Lesson1-class.ipynb](/assets/notebooks/Lesson1-class.ipynb)
 
 ## Announcements
 - See this helpful guide to [getting setup with Julia](/setup) for the class.
