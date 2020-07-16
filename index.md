@@ -1,6 +1,6 @@
 @def title = "Home"
 
-# 🧑‍💻 Introduction to Being a Code Ninja with Julia
+# 👩‍💻 Introduction to Being a Code Ninja with Julia
 Hello students, and welcome to the C14008 Website!
 ### 🙋‍♂️ Basic course information
 Instructors:
@@ -17,5 +17,5 @@ Course time: Saturdays 7/11 to 8/15 from 1:35pm EDT to 2:55pm EDT
    - Notebook file that was used in class: [Lesson1-class.ipynb](/assets/notebooks/Lesson1-class.ipynb)
 
 ## 📣 Announcements
-- Visit [class.julia.party](http://class.julia.party) to join the class. The meeting password was sent to you over email.
+- Visit [class.julia.party](http://class.julia.party) to join the class Zoom meeting. This link requires a password that was sent to you via email.
 - Visit this guide on [using the C14008 Code Server](/code-server).
