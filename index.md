@@ -15,6 +15,7 @@ Course time: Saturdays 7/11 to 8/15 from 1:35pm EDT to 2:55pm EDT
 
 1. The Basics: [Lesson1.ipynb](/assets/notebooks/Lesson1.ipynb)
    - Notebook file that was used in class: [Lesson1-class.ipynb](/assets/notebooks/Lesson1-class.ipynb)
+2. Linear Algebra and Matrices: [Lesson2.ipynb](/assets/notebooks/Lesson2.ipynb)
 
 ## 📣 Announcements
 - Visit [class.julia.party](http://class.julia.party) to join the class Zoom meeting. This link requires a password that was sent to you via email.
