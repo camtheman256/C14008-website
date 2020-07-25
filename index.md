@@ -18,7 +18,9 @@ Course time: Saturdays 7/11 to 8/15 from 1:35pm EDT to 2:55pm EDT
 2. Linear Algebra and Matrices: [Lesson2.ipynb](/assets/notebooks/Lesson2.ipynb)
    - Notebook file that was used in class: [Lesson2-class.ipynb](/assets/notebooks/Lesson2-class.ipynb)
 3. One-liner day: [Lesson3.ipynb](/assets/notebooks/Lesson3.ipynb)
+   - Notebook file that was used in class: [Lesson3-class.ipynb](/assets/notebooks/Lesson3-class.ipynb)
 
 ## 📣 Announcements
 - Visit [class.julia.party](http://class.julia.party) to join the class Zoom meeting. This link requires a password that was sent to you via email.
-- Visit this guide on [using the C14008 Code Server](/code-server).
+- Visit this guide on [using the C14008 Code Server](/code-server), updated with new information on packages.
+- **New downtime protocol:** The Code Server will be taken down briefly between **1:00-1:30 EDT** (before class) and **5:00-5:30 EDT** (after class) every Saturday to adjust for memory and CPU usage in class. Downtime should last no longer than 5 minutes.
