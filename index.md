@@ -5,7 +5,7 @@ Hello students, and welcome to the C14008 Website!
 ### 🙋‍♂️ Basic course information
 Instructors:
 - [Cameron Kleiman](https://camk.co), rising sophomore at MIT ([ckleiman@mit.edu](mailto:ckleiman@mit.edu))
-- Christian Stromberger, rising sophomore at Caltech ([cjs@caltech.edu](mailto:cjs@caltech.edu))
+- [Christian Stromberger](https://cjs3.cc), rising sophomore at Caltech ([cjs@caltech.edu](mailto:cjs@caltech.edu))
 
 The best way to contact the instructors is to email [c14008-teachers@esp.mit.edu](mailto:c14008-teachers@esp.mit.edu).
 
