@@ -21,6 +21,8 @@ Course time: Saturdays 7/11 to 8/15 from 1:35pm EDT to 2:55pm EDT
    - Notebook file that was used in class: [Lesson3-class.ipynb](/assets/notebooks/Lesson3-class.ipynb)
 4. Julia Packages: [Lesson4.ipynb](/assets/notebooks/Lesson4.ipynb)
    - Notebook file that was used in class: [Lesson4-class.ipynb](/assets/notebooks/Lesson4-class.ipynb)
+5. Free Day: [Lesson5.ipynb](/assets/notebooks/Lesson5.ipynb)
+
 ## 📣 Announcements
 - Visit [class.julia.party](http://class.julia.party) to join the class Zoom meeting. This link requires a password that was sent to you via email.
 - Visit this guide on [using the C14008 Code Server](/code-server), updated with new information on packages.
