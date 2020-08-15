@@ -31,7 +31,7 @@ Visit [challenge.julia.party](http://challenge.julia.party) for the Challenge Da
 9. Every entry in the queue submitted **before 2:25 EDT** will be allowed to claim solutions.
 
 ### After the challenge
-10. Each team will get **4 minutes** to redeem their solutions to the problems they solved.
+10. Each team will get **1 minute per problem** to redeem their solutions to the problems they solved.
 11. For each problem you solve, to redeem your points, **a random member of your group** will be selected to present your solution to the class. Whoever has the code can screenshare for the group, but the random member must be the one to present, without help from the group.
     - To get credit, you must briefly walk through your code, explain your strategy, and why it works.
     - A good presentation consists of a concise restatement of the problem, clean code, and a coherent explanation.
