@@ -18,6 +18,7 @@ Visit [challenge.julia.party](http://challenge.julia.party) for the Challenge Da
     - Each problem can only be solved by one team, so choose carefully.
     - The spreadsheet will be updating live throughout the class as problems are solved.
     - You can also check the "Queue" tab of the dashboard to see what problems are being attempted.
+    - All solutions to the problems must be ideated and written _during_ the 45 minute challenge, so you can't choose problems any member of your group has previously solved.
 6. Use the [Julia documentation](https://docs.julialang.org/) and any online resources you like, short of directly looking up the solutions to the Euler problems.
     - Violations of this rule include reading blog posts with mathematical solutions to the Euler problem or solutions in other programming languages than Julia.
     - As long as what you're reading doesn't reference Project Euler or the specific problem you're solving, you're probably okay. For example, looking up "lattice paths" is fine, but looking up "project euler problem lattice paths" is not.
