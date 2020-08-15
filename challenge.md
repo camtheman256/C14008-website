@@ -13,7 +13,7 @@ Visit [challenge.julia.party](http://challenge.julia.party) for the Challenge Da
 3. **Get to class on time, before 1:35 EDT.** At this time, we'll place you into teams of 4 using breakout rooms.
 
 ### During the challenge
-4. **The challenge will start at 1:40 EDT and will last for 55 minutes.** 
+4. **The challenge will start at 1:40 EDT and will last for 60 minutes.** 
 5. Choose problems to solve that are not crossed out or claimed by other teams (which will be highlighted in green) by weighing the point value against how difficult you think the problem will be to solve.
     - Each problem can only be solved by one team, so choose carefully.
     - The spreadsheet will be updating live throughout the class as problems are solved.
@@ -28,7 +28,7 @@ Visit [challenge.julia.party](http://challenge.julia.party) for the Challenge Da
     - To help us, please keep the Euler page with a green checkmark open.
     - We may ask you to run your code for us to verify that it works.
     - All solutions must be written **in Julia** and **without the PyCall module.**
-9. Every entry in the queue submitted **before 2:35 EDT** will be allowed to claim solutions.
+9. Every entry in the queue submitted **before 2:40 EDT** will be allowed to claim solutions.
 
 ### After the challenge
 10. Each team will get **1 minute per problem** to redeem their solutions to the problems they solved.
