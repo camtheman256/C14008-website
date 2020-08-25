@@ -9,7 +9,9 @@ Instructors:
 
 The best way to contact the instructors is to email [c14008-teachers@esp.mit.edu](mailto:c14008-teachers@esp.mit.edu).
 
-Course time: Saturdays 7/11 to 8/15 from 1:35pm EDT to 2:55pm EDT
+@@colbox-blue
+**This course has now ended.** This site will remain up as an archive, and the lessons are still accessible at the links below.
+@@
 
 ## 📔 Lectures
 
@@ -26,6 +28,4 @@ Course time: Saturdays 7/11 to 8/15 from 1:35pm EDT to 2:55pm EDT
 6. [Challenge Day](/challenge)
 
 ## 📣 Announcements
-- Visit [class.julia.party](http://class.julia.party) to join the class Zoom meeting. This link requires a password that was sent to you via email.
-- Visit this guide on [using the C14008 Code Server](/code-server), updated with new information on packages.
-- **New downtime protocol:** The Code Server will be taken down briefly between **1:00-1:30 EDT** (before class) and **5:00-5:30 EDT** (after class) every Saturday to adjust for memory and CPU usage in class. Downtime should last no longer than 5 minutes.
+- The code server ([code.julia.party](https://code.julia.party/)) has been retired, and all saved code has now been deleted.  
