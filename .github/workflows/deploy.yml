@@ -54,7 +54,7 @@ jobs:
             Pkg.activate("."); Pkg.instantiate();
             optimize()'
     - name: Build and Deploy
-      uses: JamesIves/github-pages-deploy-action@releases/v3
+      uses: JamesIves/github-pages-deploy-action@4.1.4
       with:
         SSH: true
         # NOTE
