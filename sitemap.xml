@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+<url>
+    <loc>https://camk.co/C14008-website/setup/index.html</loc>
+    <lastmod>2021-07-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://camk.co/C14008-website/code-server/index.html</loc>
+    <lastmod>2021-07-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://camk.co/C14008-website/challenge/index.html</loc>
+    <lastmod>2021-07-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://camk.co/C14008-website/index.html</loc>
+    <lastmod>2021-07-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://camk.co/C14008-website/setup-faq/index.html</loc>
+    <lastmod>2021-07-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+</urlset>

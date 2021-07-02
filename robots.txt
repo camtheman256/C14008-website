@@ -1,0 +1,4 @@
+Sitemap: https://camk.co/C14008-website/sitemap.xml
+
+User-agent: *
+Disallow:
