@@ -6,6 +6,7 @@ The website_* must be defined for the RSS to work
 @def website_title = "C14008 Website"
 @def website_descr = "Class website for Introduction to Being a Code Ninja with Julia for Summer HSSP 2020"
 @def website_url   = "https://camk.co/C14008-website/"
+@def prepath = "C14008-website"
 
 @def author = "Cameron Kleiman and Christian Stromberger"
 
